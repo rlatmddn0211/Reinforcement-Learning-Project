@@ -12,14 +12,10 @@
 
 저희 로봇은 수백만 번의 시행착오 끝에 다음과 같이 성장했습니다.
 
-#### Phase 1. 초기 상태 (The "Drunk" Robot)
-
-
-
-#### Phase 4. 최종 완성: 임팩트 & 슈팅 (Impact & Shooting)
-
+####  초기 상태 (The "Drunk" Robot)
+https://github.com/user-attachments/assets/64798587-3ce5-4aad-9bde-eba55fe7b4e7
+####  최종 완성: 임팩트 & 슈팅 (Impact & Shooting)
 https://github.com/user-attachments/assets/b5cc8e7c-ab8f-4248-88c8-5801147fee29
-
 ## 🧠 알고리즘 및 방법론 (Methodology)
 
 ### 1. 사용 알고리즘 (Algorithm)
