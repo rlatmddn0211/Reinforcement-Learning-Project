@@ -1,6 +1,6 @@
 # Humanoid Soccer Kicker: RL with Curriculum Learning
 
-### 휴머노이드 로봇(Booster T1)이 스스로 균형을 잡고 강력한 슛을 날리도록 학습시킨 강화학습 프로젝트입니다.
+### 휴머노이드 로봇(Booster T1)이 스스로 균형을 잡고 강력한 슛을 날리도록 학습시킨 강화학습 프로젝트
 
 ## 🎯 프로젝트 목표 (Project Goal)
 
@@ -27,12 +27,6 @@ Framework: Gymnasium, Stable-Baselines3, MuJoCo Physics Engine.
 2. 커리큘럼 학습 전략 (Two-Stage Curriculum)
 
 논문 *"Dribble Master"*의 핵심 아이디어를 차용하여 학습 단계를 분리했습니다.
-
-단계
-
-목표
-
-핵심 전략 (Key Strategy)
 
 Stage 1
 
