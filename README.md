@@ -26,7 +26,7 @@ Framework: Gymnasium, Stable-Baselines3, MuJoCo Physics Engine.
 
 2. 커리큘럼 학습 전략 (Two-Stage Curriculum)
 
-논문 *"Shooting Master"*의 핵심 아이디어를 차용하여 학습 단계를 분리했습니다.
+논문 *"Dribble Master"*의 핵심 아이디어를 차용하여 학습 단계를 분리했습니다.
 
 Stage 1
 
